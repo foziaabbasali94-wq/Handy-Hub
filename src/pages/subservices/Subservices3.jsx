@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Typography, Button } from "@mui/material";
 import Electric from "../../assets/electricEquip_bhb6x8.svg";
 

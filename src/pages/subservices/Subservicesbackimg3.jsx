@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Typography, Button } from "@mui/material";
 import Acer from "../../assets/acrepair_tqmii5 (1).svg";
 

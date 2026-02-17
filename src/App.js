@@ -9,16 +9,11 @@ import HomeLandingpage from "./pages/HomeLandingpage";
 
 
 import ServicesLandingpage from "./pages/ServicesLandingpage";
-import About from "./component/About";
+
 import AboutLandingpage from "./pages/AboutLandingpage";
-import Contact from "./component/Contact";
+
 import ContactLandingpage from "./pages/ContactLandingpage";
-import Subservices1 from "./pages/subservices/Subservices1";
-import Subservices2 from "./pages/subservices/Subservices2";
-import Subservices3 from "./pages/subservices/Subservices3";
-import Subservices4 from "./pages/subservices/Subservices4";
-import Subservices5 from "./pages/subservices/Subservices5";
-import Subservices6 from "./pages/subservices/Subservices6";
+
 
 import Sublandingpage1 from "./pages/Sublandingpage1";
 import Subservicesbackimg from "./pages/subservices/Subservicesbackimg";
@@ -35,7 +30,7 @@ import Subservices5img1 from "./pages/subservices/Subservices5img1";
 import Subservices5img2 from "./pages/subservices/Subservices5img2";
 import Subservices5img3 from "./pages/subservices/Subservices5img3";
 import Subservices5img4 from "./pages/subservices/Subservices5img4";
-import Cardsubservices from "./pages/subservices/Cardsubservices";
+
 import CardLandingpage from "./pages/CardLandingpage";
 import Sublandingpage7 from "./pages/Sublandingpage7";
 import Subservices7 from "./pages/subservices/Subservices7";

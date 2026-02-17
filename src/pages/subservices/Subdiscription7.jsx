@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Typography } from "@mui/material";
 import Homeapplience1 from "../../assets/fridge_7.jpg";
 import Homeapplience3 from "../../assets/washingMachine_7.jpg";

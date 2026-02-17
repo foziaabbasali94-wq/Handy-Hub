@@ -1,4 +1,4 @@
-import Work from '../component/Work';
+
 import QueryForm from '../component/Queryform';
 import MyServices from "../component/MyServices";
 import Services from '../component/Services';

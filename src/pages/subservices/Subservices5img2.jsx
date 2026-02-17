@@ -1,4 +1,4 @@
-import React from "react";
+
 import { useNavigate } from "react-router-dom";
 import { Box, Typography, Button } from "@mui/material";
 import Basic2 from "../../assets/basicmakeover2.jpg";

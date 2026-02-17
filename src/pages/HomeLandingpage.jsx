@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Herosection from '../component/Herosection';
 import Services from '../component/Services'
 

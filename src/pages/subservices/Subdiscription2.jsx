@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Typography, Card, CardMedia, CardContent } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 

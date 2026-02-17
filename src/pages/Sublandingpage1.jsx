@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Subservices1 from './subservices/Subservices1'
 import Subdiscription1 from './subservices/Subdiscription1'
 import Subservicesbackimg from './subservices/Subservicesbackimg'
@@ -15,4 +15,4 @@ function Sublandingpage1() {
   )
 }
 
-export default Sublandingpage1
+export default Sublandingpage1;

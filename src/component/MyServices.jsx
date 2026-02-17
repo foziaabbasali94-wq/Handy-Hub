@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Typography, Button } from "@mui/material";
 import ServiceImg from "../assets/service_img_yb56ni.svg";
 

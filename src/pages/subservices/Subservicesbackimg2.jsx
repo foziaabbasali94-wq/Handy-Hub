@@ -1,9 +1,6 @@
 import { useNavigate } from "react-router-dom";
-import { Box, Typography, Card, CardMedia, CardContent } from "@mui/material";
+import { Typography, Card, CardMedia, CardContent } from "@mui/material";
 import Acer2 from "../../assets/acservice_xupu4o (1).svg";
-import Acer from "../../assets/acrepair_tqmii5 (1).svg";
-import Ac from "../../assets/AC-Duct-Repair_qhd6tf.jpg";
-import Duct from "../../assets/ductclean_rtdtwi (1).svg";
 
 function Subservicesbackimg2() {
   const navigate = useNavigate();

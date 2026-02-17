@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Aboutus from '../component/Aboutus'
 import AboutUs from '../component/About'
 
@@ -12,4 +12,4 @@ function AboutLandingpage() {
   )
 }
 
-export default AboutLandingpage
+export default AboutLandingpage;

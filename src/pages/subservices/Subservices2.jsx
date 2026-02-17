@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Typography, Button } from "@mui/material";
 import Airconditoner from "../../assets/airconditoner_nlmqa4.svg";
 
