@@ -1,7 +1,7 @@
 
 import Subdescription2 from './subservices/Subdiscription2'
 import Subservices2 from './subservices/Subservices2'
-import Subdiscription1 from './subservices/Subdiscription1'
+
 import Subdiscription1secpart from './subservices/Subdiscription1secpart'
 
 function Sublandingpage2() {
